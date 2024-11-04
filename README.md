@@ -1,16 +1,20 @@
-# flutter_plugin
+**NAMA: NOBEL RAHMAT SANI**
+**KELAS: 2A TRPL**
+**NIM: 362358302075**
 
-A new Flutter project.
+1. PRAKTIKUM:
+![2](https://github.com/user-attachments/assets/96918c63-3875-4f35-bee0-d1ed92973e9d)
 
-## Getting Started
+2. TUGAS:
+![1](https://github.com/user-attachments/assets/da52069b-b307-4bb3-9818-df622250bf60)
 
-This project is a starting point for a Flutter application.
+3. async memungkinkan fungsi untuk menunggu proses-proses yang memakan waktu (seperti mengambil gambar dari kamera) tanpa menghentikan eksekusi aplikasi secara keseluruhan.
 
-A few resources to get you started if this is your first Flutter project:
+4. A. @immutable
+- Menandakan bahwa objek kelas tidak bisa diubah setelah dibuat.
+- Biasanya digunakan pada widget seperti StatelessWidget.
+- Membantu mencegah perubahan yang tidak disengaja pada data.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+B. @override
+- Digunakan untuk menggantikan metode dari kelas induk.
+- Memberi tahu pembaca kode dan compiler bahwa metode tersebut adalah versi baru dari metode di kelas induk.
